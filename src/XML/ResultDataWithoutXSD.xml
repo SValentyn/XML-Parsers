@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<dataSheet>
+    <data date="01.03.2018">
+        <x>0.13</x>
+        <y>0.38</y>
+    </data>
+    <data date="20.03.2018">
+        <x>2.23</x>
+        <y>3.29</y>
+    </data>
+    <data date="21.03.2018">
+        <x>3.35</x>
+        <y>3.1</y>
+    </data>
+    <data date="11.03.2018">
+        <x>4.88</x>
+        <y>4.99</y>
+    </data>
+    <data date="23.03.2018">
+        <x>5.5</x>
+        <y>5.75</y>
+    </data>
+    <data date="24.03.2018">
+        <x>6.6</x>
+        <y>6.48</y>
+    </data>
+    <data date="25.03.2018">
+        <x>7.7</x>
+        <y>7.84</y>
+    </data>
+    <data date="26.03.2018">
+        <x>9.0</x>
+        <y>10.2</y>
+    </data>
+</dataSheet>
