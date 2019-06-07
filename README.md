@@ -3,6 +3,7 @@
  [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)  
  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+ 
 ---
 
 The project includes such topics as (tasks in the project in Russian):
