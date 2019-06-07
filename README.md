@@ -7,7 +7,7 @@
 ---
 
 The project includes such topics as (tasks in the project in Russian):
-  * Creating and writing an XML files in different ways
+  * Creating and writing an [XML files](https://en.wikipedia.org/wiki/XML) in different ways
   * Creating and using [DTD](https://en.wikipedia.org/wiki/Document_type_definition) and [XSD schemes](https://en.wikipedia.org/wiki/XML_Schema_(W3C))
   * Parsing XML files with [SAX](https://en.wikipedia.org/wiki/Simple_API_for_XML) and [DOM](https://www.tutorialspoint.com/java_xml/java_dom_parser.htm) approaches
 
